@@ -2,7 +2,7 @@
 
 An interactive end-to-end data analytics application that transforms raw retail sales data into actionable business strategy. This project features a real-time dashboard and a machine-learning-powered customer segmentation model.
 
-## 🚀 [Live Demo Link](PASTE_YOUR_STREAMLIT
+## 🚀 [Live Demo Link]https://ecomm-sales-dashboard.streamlit.app/
 
 ---
 
